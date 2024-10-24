@@ -1,6 +1,4 @@
-date = "04.10.2024"
-nameWithLastname = "Bircan Yılmaz"
-ogrNo = 241478092
+
 #Deney No:2
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
